@@ -1,0 +1,246 @@
+CRITICAL - 2023-09-24 01:26:00 --> Undefined variable: titulo
+in APPPATH\Views\front\head_view.php on line 7.
+ 1 APPPATH\Views\front\head_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: titulo', 'C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php', 7, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 5 APPPATH\Controllers\Home.php(16): view('front/head_view')
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Home->quienes_somos()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-24 01:28:04 --> Undefined variable: titulo
+in APPPATH\Views\front\head_view.php on line 7.
+ 1 APPPATH\Views\front\head_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: titulo', 'C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php', 7, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 5 APPPATH\Controllers\Home.php(16): view('front/head_view')
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Home->quienes_somos()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-24 01:30:03 --> Undefined variable: titulo
+in APPPATH\Views\front\head_view.php on line 7.
+ 1 APPPATH\Views\front\head_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: titulo', 'C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php', 7, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 5 APPPATH\Controllers\Home.php(16): view('front/head_view')
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Home->quienes_somos()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-24 01:30:06 --> Undefined variable: titulo
+in APPPATH\Views\front\head_view.php on line 7.
+ 1 APPPATH\Views\front\head_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: titulo', 'C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php', 7, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 5 APPPATH\Controllers\Home.php(16): view('front/head_view')
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Home->quienes_somos()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-24 01:34:13 --> Undefined variable: titulo
+in APPPATH\Views\front\head_view.php on line 7.
+ 1 APPPATH\Views\front\head_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: titulo', 'C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php', 7, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('front/head_view')
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Home->quienes_somos()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-24 01:34:44 --> Undefined variable: titulo
+in APPPATH\Views\front\head_view.php on line 7.
+ 1 APPPATH\Views\front\head_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: titulo', 'C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php', 7, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('front/head_view')
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Home->quienes_somos()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-24 01:34:46 --> Undefined variable: titulo
+in APPPATH\Views\front\head_view.php on line 7.
+ 1 APPPATH\Views\front\head_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: titulo', 'C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php', 7, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Views\\front\\head_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('front/head_view')
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Home->quienes_somos()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-24 02:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-24 06:04:35 --> syntax error, unexpected '<', expecting end of file
+in APPPATH\Views\front\navbar_view.php on line 6.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/navbar_view', [], true)
+ 3 APPPATH\Controllers\Home.php(19): view('front/navbar_view')
+ 4 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Home->quienes_somos()
+ 5 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-24 06:21:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 06:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 06:21:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 06:21:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 06:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 06:22:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-24 06:22:06 --> Class 'App\Models\Models' not found
+in APPPATH\Models\usuario_Model.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Models\\usuario_Model.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\usuario_Model')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\usuario_Model')
+ 5 APPPATH\Controllers\login_controller.php(22): spl_autoload_call('App\\Models\\usuario_Model')
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\login_controller->auth()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-24 06:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 06:26:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 06:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 06:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 06:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 07:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 07:30:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 07:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 07:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-24 07:37:14 --> Undefined variable: dato
+in APPPATH\Controllers\Home.php on line 27.
+ 1 APPPATH\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dato', 'C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Controllers\\Home.php', 27, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Home->catalogo()
+ 3 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-24 07:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 07:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 07:38:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 07:44:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 07:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 07:52:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 07:53:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:07:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:07:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:14:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:23:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:25:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:40:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:45:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 21:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-24 21:58:33 --> syntax error, unexpected 'data' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$'
+in APPPATH\Controllers\Home.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Home')
+ 5 SYSTEMPATH\CodeIgniter.php(873): class_exists('\\App\\Controllers\\Home', true)
+ 6 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-24 21:59:29 --> syntax error, unexpected 'data' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$'
+in APPPATH\Controllers\Home.php on line 10.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Home')
+ 5 SYSTEMPATH\CodeIgniter.php(873): class_exists('\\App\\Controllers\\Home', true)
+ 6 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-24 21:59:31 --> syntax error, unexpected 'data' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$'
+in APPPATH\Controllers\Home.php on line 10.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Home')
+ 5 SYSTEMPATH\CodeIgniter.php(873): class_exists('\\App\\Controllers\\Home', true)
+ 6 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-24 21:59:43 --> syntax error, unexpected 'data' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$'
+in APPPATH\Controllers\Home.php on line 17.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\proyecto_integrador_back\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Home')
+ 5 SYSTEMPATH\CodeIgniter.php(873): class_exists('\\App\\Controllers\\Home', true)
+ 6 SYSTEMPATH\CodeIgniter.php(479): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-24 22:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:00:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:00:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:05:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:39:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:57:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 22:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:15:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:15:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:44:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:44:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-24 23:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
